@@ -1,0 +1,31 @@
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# TLS Certificates
+certs/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Electrum data
+.electrum-ltc/
+
+# Config override
+config.toml
+config.local.toml
