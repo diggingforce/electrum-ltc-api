@@ -2,6 +2,8 @@
 
 REST API wrapper around Electrum-LTC for managing Litecoin wallets. Written in Rust.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/diggingforce/electrum-ltc-api)
+
 ## What it does
 
 - Create and restore Litecoin wallets
